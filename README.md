@@ -1,6 +1,6 @@
 # Node.js e JWT
 
-Projeto Autentificação com Node.js, utilizando os modulos express, jwt, bcrypt
+Projeto Autentificação com Node.js, utilizando os modulos express, jwt, bcrypt, mongo
 
 ## Clone o repositorio:
     - git clone
