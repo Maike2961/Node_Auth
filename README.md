@@ -1,12 +1,12 @@
-# Node.js e JWT
+# Login with autentication
+
+## Node.js, Express, JWT
 
 Projeto Autentificação com Node.js, utilizando os modulos express, jwt, bcrypt, mongo
 
-## Clone o repositorio:
+## Clone the repository:
     - git clone
-    - vá até o seu diretório
-    - instale as dependencias com npm install
-
-## No Prompt utilize o comando:
-
-    npm run dev
+    - Go to paste and do the command npm install
+    - Before make the file .env and do the environment variables
+    - docker-compose up -d
+    - npm run dev
