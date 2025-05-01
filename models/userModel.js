@@ -1,4 +1,5 @@
 import mongoose from 'mongoose'
+
 const User = mongoose.model('User', {
     nome: String,
     idade: Number,
@@ -6,4 +7,4 @@ const User = mongoose.model('User', {
     senha: String,
 })
 
-export default User
+export default User;
